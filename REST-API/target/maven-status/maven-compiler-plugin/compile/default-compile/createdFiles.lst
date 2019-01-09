@@ -1,0 +1,10 @@
+myfacade\MyFacade.class
+rest\RESTPet.class
+entity\PetDTO.class
+entity\Owner.class
+entity\Event.class
+rest\ApplicationConfig.class
+entity\Owner_.class
+entity\Event_.class
+entity\Pet.class
+entity\Pet_.class
